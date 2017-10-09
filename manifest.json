@@ -1,0 +1,17 @@
+﻿{
+  "name": "Fotografiable",
+  "short_name": "Fotografiable App",
+  "start_url": "www.fotografiable.com/tarjeta/tarjeta.htm",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Tarjeta de presentacion.",
+  "icons": [{
+    "src": "logo96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "logo144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }]
+}
